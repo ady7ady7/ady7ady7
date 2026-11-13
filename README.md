@@ -8,7 +8,7 @@
   back to the Python basics properly - PCEP, then PCAP (91%)
 
 
-#### Projects (all projects done on real data, usually fetched through APIs, sometimes with LLM's aid)
+#### Projects (all projects done on real data, usually fetched through APIs, sometimes with LLM assistance)
 
 - [xauusd-volatility-forecast](https://github.com/ady7ady7/xauusd-volatility-forecast) - live hourly forecast of gold's price range, from features to deployment (pandas, scikit-learn, MLflow, FastAPI, Cloud Run)
 - [amazon-smartphones-real-data-analysis](https://github.com/ady7ady7/amazon-smartphones-real-data-analysis) - how Apple, Samsung and Google phones lose value after launch; 878k weekly Amazon US prices for 63 models (pandas, seaborn, Keepa API)

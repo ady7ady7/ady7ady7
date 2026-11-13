@@ -10,7 +10,7 @@
 
 #### Projects (all projects done on real data, usually fetched through APIs, sometimes with LLM's aid)
 
-- [xauusd-volatility-forecast](https://github.com/ady7ady7/xauusd-volatility-forecast) - live hourly forecast of gold's price range, from features to deployment (scikit-learn, MLflow, FastAPI, Cloud Run)
+- [xauusd-volatility-forecast](https://github.com/ady7ady7/xauusd-volatility-forecast) - live hourly forecast of gold's price range, from features to deployment (pandas, scikit-learn, MLflow, FastAPI, Cloud Run)
 - [amazon-smartphones-real-data-analysis](https://github.com/ady7ady7/amazon-smartphones-real-data-analysis) - how Apple, Samsung and Google phones lose value after launch; 878k weekly Amazon US prices for 63 models (pandas, seaborn, Keepa API)
 - [xauusd_session_analysis_ml](https://github.com/ady7ady7/xauusd_session_analysis_ml) - does gold's London session say anything about New York? 391k five-minute candles, 5 years (PostgreSQL, scipy, scikit-learn, XGBoost)
 - [sql_agentic_learning](https://github.com/ady7ady7/sql_agentic_learning) - 56M rows of Nasdaq futures tick data, queried daily; the size forced real query optimisation (PostgreSQL)

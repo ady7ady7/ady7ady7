@@ -4,7 +4,7 @@
 
 - Currently I'm also focusing on machine learning, and taking models all the way to production
 
-- Started with Python in 2023, writing simple trading algos as a hobby. In September 2025 I set myself a goal to work with data, started learning seriously (every day), began with SQL and went
+- Started with Python in 2023, writing simple trading algos as a hobby. In September 2025 I set myself a goal to work with data, started learning daily, picked up an SQL for DA course and went
   back to the Python basics properly - PCEP, then PCAP (91%)
 
 

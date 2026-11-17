@@ -1,4 +1,4 @@
-## Data analyst with a translation and trading background.
+## Data analyst with a translation background.
 
 - I study Python and SQL every day - the logs are public: [python_agentic_learning](https://github.com/ady7ady7/python_agentic_learning) and [sql_agentic_learning](https://github.com/ady7ady7/sql_agentic_learning)
 
